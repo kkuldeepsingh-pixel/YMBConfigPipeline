@@ -1,1 +1,2 @@
 # YMBConfigPipeline
+This repository contains the YMB banking app test files and GitHub Actions CI pipeline. The purpose of this project is to automatically test code changes before they are merged into the main branch. It also creates a Git-based audit trail showing who changed the code, when the change was made, and whether the automated tests passed or failed. This helps YMB support Ben Secure’s audit requirements and reduces the chance of bad code reaching production.
